@@ -1,0 +1,9 @@
+{
+  "name": "hpro-rn",
+  "version": "1.0.0",
+  "description": "React Native utils for HPro Mobile Applications.",
+  "main": "index.js",
+  "author": "HPro Informática <hpro.informatica@gmail.com>",
+  "license": "UNLICENSED",
+  "private": true
+}
